@@ -1,0 +1,14 @@
+.Movie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin: 4rem auto;
+    .MovieDescription{
+        width: 20rem;
+        }
+        img{
+            height: 15rem;
+            width: 11rem;
+        }
+}
