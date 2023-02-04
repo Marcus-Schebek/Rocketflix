@@ -40,3 +40,5 @@ The app will be running on `http://localhost:3000/` in your web browser.
 
 ## Contributing
 If you have any suggestions or ideas for improvements, feel free to open an issue or submit a pull request.
+
+## You can try [here](https://rocketflix-seven.vercel.app/)
